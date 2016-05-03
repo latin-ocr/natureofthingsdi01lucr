@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./natureofthingsdi01lucr_0325.png"; bbox 0 0 2139 2906; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 892 1022 1011 1054">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 892 1022 1011 1054">
+     <span class='ocr_line' id='line_1_1' title="bbox 892 1022 1011 1054; baseline -0.008 0"><span class='ocrx_word' id='word_1_1' title='bbox 892 1022 1011 1054; x_wconf 79' lang='lat' dir='ltr'>THE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 383 1211 1510 1278">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 383 1211 1510 1278">
+     <span class='ocr_line' id='line_1_2' title="bbox 383 1211 1510 1278; baseline -0.006 0"><span class='ocrx_word' id='word_1_2' title='bbox 383 1215 817 1278; x_wconf 80' lang='lat' dir='ltr'>NATURE</span> <span class='ocrx_word' id='word_1_3' title='bbox 893 1214 1018 1273; x_wconf 82' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_4' title='bbox 1096 1211 1510 1272; x_wconf 90' lang='lat' dir='ltr'>THINGS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 604 1508 1303 1556">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 604 1508 1303 1556">
+     <span class='ocr_line' id='line_1_3' title="bbox 604 1508 1303 1556; baseline -0.004 -3"><span class='ocrx_word' id='word_1_5' title='bbox 604 1510 795 1556; x_wconf 89' lang='lat' dir='ltr'>BOOK</span> <span class='ocrx_word' id='word_1_6' title='bbox 833 1509 972 1552; x_wconf 87' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_7' title='bbox 1011 1508 1303 1552; x_wconf 66' lang='lat' dir='ltr'>SECOND„</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
